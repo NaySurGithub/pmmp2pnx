@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/CMakeLists.txt
+!/build.bat
+!/README.md
+!/LICENSE
+!/include/
+!/include/**
+!/src/
+!/src/**
+!/tests/
+!/tests/**
